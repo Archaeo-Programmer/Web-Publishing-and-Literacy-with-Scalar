@@ -1,4 +1,4 @@
-# Web-Publishing-and-Literacy-with-Scalar
+# Web Publishing and Literacy with Scalar
 
 > Tuesday, March 5th, CDSC
 > 
