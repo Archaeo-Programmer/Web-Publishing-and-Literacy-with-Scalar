@@ -1,6 +1,7 @@
 # Web Publishing and Literacy with Scalar
 
 > Tuesday, March 5th, CDSC
+
 > [Workshop Description](https://cdsc.libraries.wsu.edu/workshop/2019-cdsc-spring-symposium-workshops-using-scalar-for-history-and-perceptions-of-place-with-andrew-gillreath-brown/)
 
 ## Objectives
