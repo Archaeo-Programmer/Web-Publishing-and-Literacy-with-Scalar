@@ -1,18 +1,18 @@
 # Web Publishing and Literacy with Scalar
 
-> Tuesday, March 5th, CDSC
+## Using Scalar for History and Perceptions of Place by Andrew Gillreath-Brown
 
-> [Workshop Description](https://cdsc.libraries.wsu.edu/workshop/2019-cdsc-spring-symposium-workshops-using-scalar-for-history-and-perceptions-of-place-with-andrew-gillreath-brown/)
+> Tuesday, March 5th, 2019, CDSC
 
-## Objectives
+### [Workshop Description](https://cdsc.libraries.wsu.edu/workshop/2019-cdsc-spring-symposium-workshops-using-scalar-for-history-and-perceptions-of-place-with-andrew-gillreath-brown/)
 
-- explore scholarly publishing platforms
-- learn about embedding on the web
-- web literacy: be ready to "view source" and explore "how did they make that"
+Scalar is a free open-source digital humanities publishing platform designed for presenting digital scholarship online in non-linear, engaging, and collaborative ways. In this workshop, Andrew will discuss how Scalar can be used to represent and visualize your ideas in new ways, ranging from topics of history to interactive digital books. Andrew will discuss how he used Scalar for a project entitled “Washington State University Buildings and Landscapes” that combined digital humanities, publishing, and history, which also led to changes in his perceptions of place.
 
-## Outline: 
+Following discussion, participants will have an opportunity to work hands-on with Scalar, whether working with Scalar for the classroom or digital scholarship. Participants are encouraged to bring possible project ideas to share with the group, and can bring media or content to work with if desired. Bringing your own laptop to work on is encouraged, but not required.
 
-- [Scalar slides](https://docs.google.com/presentation/d/1z2ayxx17p38MJ8mGBKkxsBrieo2eV9tmyJDMbBs3LQo/edit?usp=sharing)
+### Outline: 
+
+- [Copy of Workshop Presentation](https://docs.google.com/presentation/d/1z2ayxx17p38MJ8mGBKkxsBrieo2eV9tmyJDMbBs3LQo/edit?usp=sharing)
 - Web publishing discussion
 - Platform introductions and considerations
 - Scalar hands-on
